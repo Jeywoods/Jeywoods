@@ -105,3 +105,9 @@ I am a 4th year student at the Southern Federal University. I want to improve my
          onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </div>
+<h1>Additional education</h1>
+<div>
+  <a href="https://drive.google.com/file/d/1QTX4N9g9HuIPl1E8ZhiqQf4n0ZplAsrS/view?usp=sharing">
+    Big data
+  </a>
+</div>
