@@ -106,17 +106,16 @@ I am a 4th year student at the Southern Federal University. I want to improve my
   </a>
 </div>
 <h1>Additional education</h1>
-<div>
-  <a href="https://drive.google.com/file/d/1QTX4N9g9HuIPl1E8ZhiqQf4n0ZplAsrS/view?usp=sharing" 
-     target="_blank" 
-     style="text-decoration: none; color: white; background-color: #007BFF; padding: 10px 20px; border-radius: 5px; display: flex; align-items: center; font-size: 16px; transition: background-color 0.3s;">
-    <!-- SVG Icon for Big Data -->
-    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 16 16" style="fill: white; margin-right: 10px;">
-      <path d="M11 7H5V5h6v2zM3 1h10a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1zM3 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H3z"/>
-    </svg>
-    Big Data
-  </a>
-</div>
+<a href="https://drive.google.com/file/d/1QTX4N9g9HuIPl1E8ZhiqQf4n0ZplAsrS/view?usp=sharing" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Big_data_icon.svg" 
+       alt="Big Data" 
+       width="50" 
+       height="50"
+       style="transition: transform 0.3s ease;"
+       onmouseover="this.style.transform='scale(1.1)'"
+       onmouseout="this.style.transform='scale(1)'"/>
+</a>
+
 
 
 
