@@ -106,8 +106,9 @@ I am a 4th year student at the Southern Federal University. I want to improve my
   </a>
 </div>
 <h1>Additional education</h1>
+<div>
 <a href="https://drive.google.com/file/d/1QTX4N9g9HuIPl1E8ZhiqQf4n0ZplAsrS/view?usp=sharing" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Big_data_icon.svg" 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Big_data_icon.svg" 
        alt="Big Data" 
        width="50" 
        height="50"
@@ -115,6 +116,8 @@ I am a 4th year student at the Southern Federal University. I want to improve my
        onmouseover="this.style.transform='scale(1.1)'"
        onmouseout="this.style.transform='scale(1)'"/>
 </a>
+</div>
+
 
 
 
