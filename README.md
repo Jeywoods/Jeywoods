@@ -107,7 +107,8 @@ I am a 4th year student at the Southern Federal University. I want to improve my
 </div>
 <h1>Additional education</h1>
 <div>
-  <a href="https://drive.google.com/file/d/1QTX4N9g9HuIPl1E8ZhiqQf4n0ZplAsrS/view?usp=sharing" target="_blank" 
+  <a href="https://drive.google.com/file/d/1QTX4N9g9HuIPl1E8ZhiqQf4n0ZplAsrS/view?usp=sharing" 
+     target="_blank" 
      style="text-decoration: none; color: #fff; background-color: #007BFF; padding: 10px 20px; border-radius: 5px; font-size: 16px; transition: background-color 0.3s;">
     Big Data
   </a>
