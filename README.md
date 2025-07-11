@@ -8,7 +8,7 @@ I am a 4th year student at the Southern Federal University. I want to improve my
   <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram" width="30"/>
 </a>
 </div>
-<h1>Skiils</h1>
+<h1>Skills</h1>
 <h1>Programming languages</h1>
 <div>
  
