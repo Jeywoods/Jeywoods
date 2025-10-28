@@ -1,6 +1,6 @@
 # Hi everyone! My name is Vlad.
 # About me
-I am a 4th year student at the Southern Federal University. I want to improve my skills on practical tasks and learn new things.
+I am a first-year master's student in the field of 'Mobile Application and Computer Game Development' at Southern Federal University. I strive to develop my skills in mobile development, testing, and backend development.
 # Socials 
 <br>
 <div>
