@@ -1,4 +1,6 @@
-[![](https://raw.githubusercontent.com/Jeywoods/Jeywoods/in-space-national-space-day.gif)]
+[![Космический GIF](
+https://github.com/Jeywoods/Jeywoods/blob/main/in-space-national-space-day.gif?raw=true)](
+https://github.com/Jeywoods/Jeywoods)
 
 ### Languages
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
