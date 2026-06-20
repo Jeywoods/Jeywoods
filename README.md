@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/Jeywoods/Jeywoods/main/outerspace-66.gif" alt="Космическая гифка" width="100%"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jeywoods/Jeywoods/main/outerspace-66.gif" alt="Космическая гифка" width="100%" style="max-width: 100%; display: block; margin: 0 auto;"/>
+</p>
 
 ### Languages
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
