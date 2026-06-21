@@ -18,7 +18,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Hilt](https://img.shields.io/badge/-Hilt-000?&logo=dagger&logoColor=4285F4) 
-![Moshi](https://img.shields.io/badge/-Moshi-000?&logo=square)  
 ![Coil](https://img.shields.io/badge/-Coil-000?&logo=coil) 
 
 ### Android Projects
