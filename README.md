@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="[[https://raw.githubusercontent.com/Jeywoods/Jeywoods/main/outerspace-66.gif](https://github.com/Jeywoods/Jeywoods/blob/main/starfield_loop.gif)](https://github.com/Jeywoods/Jeywoods/blob/main/starfield_loop.gif)" alt="Космическая гифка" width="100%" style="max-width: 100%; display: block; margin: 0 auto;"/>
-</p>](https://pin.it/3eJEwaVhI)](https://github.com/Jeywoods/Jeywoods/blob/main/starfield_loop.gif)
+  <img src="https://raw.githubusercontent.com/Jeywoods/Jeywoods/main/starfield_loop.gif" alt="Космическая гифка" width="100%">
+</p>
 
 ### Languages
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
