@@ -16,10 +16,10 @@
 ![Retrofit](https://img.shields.io/badge/-Retrofit-000?&logo=square)
 ![Coroutines](https://img.shields.io/badge/-Coroutines-000?&logo=kotlin)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Gradle](https://img.shields.io/badge/-Gradle-000?&logo=Gradle)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Hilt](https://img.shields.io/badge/-Hilt-000?&logo=dagger&logoColor=4285F4) 
+![Moshi](https://img.shields.io/badge/-Moshi-000?&logo=square)  
+![Coil](https://img.shields.io/badge/-Coil-000?&logo=coil) 
 
 ### Android Projects
 [![](https://img.shields.io/badge/-📱%20CalorieAnalysis)]([https://github.com/ТВОЙ_ЮЗЕРНЕЙМ/repo1](https://github.com/Jeywoods/Calorie-Analysis))
