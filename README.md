@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jeywoods/Jeywoods/main/starfield_loop.gif" alt="Космическая гифка" width="100%">
+  <img src="https://raw.githubusercontent.com/Jeywoods/Jeywoods/main/starfield_loop_with_name.gif" alt="Космическая гифка" width="100%">
 </p>
 
 ### Languages
