@@ -21,7 +21,7 @@
 ![Coil](https://img.shields.io/badge/-Coil-000?&logo=coil) 
 
 ### Android Projects
-[![](https://img.shields.io/badge/-📱%20CalorieAnalysis)]([https://github.com/ТВОЙ_ЮЗЕРНЕЙМ/repo1](https://github.com/Jeywoods/Calorie-Analysis))
+[![CalorieAnalysis](https://img.shields.io/badge/📱-CalorieAnalysis-000?style=flat&logo=github)](https://github.com/Jeywoods/Calorie-Analysis)
 [![](https://img.shields.io/badge/-🛒%20Название%20проекта-000)](https://github.com/ТВОЙ_ЮЗЕРНЕЙМ/repo2)
 [![](https://img.shields.io/badge/-🎯%20Название%20проекта-000)](https://github.com/ТВОЙ_ЮЗЕРНЕЙМ/repo3)
 
