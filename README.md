@@ -4,7 +4,7 @@
 
 ### Languages
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
-![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
