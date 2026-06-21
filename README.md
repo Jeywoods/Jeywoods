@@ -22,7 +22,7 @@
 
 ### Android Projects
 [![CalorieAnalysis](https://img.shields.io/badge/-CalorieAnalysis-000?style=flat&logo=github)](https://github.com/Jeywoods/Calorie-Analysis)
-[![](https://img.shields.io/badge/-🛒%20Название%20проекта-000)](https://github.com/ТВОЙ_ЮЗЕРНЕЙМ/repo2)
+[![MunchkinTracker](https://img.shields.io/badge/-MunchkinTracker-000?style=flat&logo=github)](https://github.com/Jeywoods/MunchkinTracker)
 [![](https://img.shields.io/badge/-🎯%20Название%20проекта-000)](https://github.com/ТВОЙ_ЮЗЕРНЕЙМ/repo3)
 
 ### Full Stack Projects
