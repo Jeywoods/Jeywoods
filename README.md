@@ -7,12 +7,12 @@
 ![Java](https://img.shields.io/badge/-Java-000?style=flat&color=000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&logoColor=4169E1)
 
 ### Technologies
 ![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-000?&logo=android-studio)
 ![Kotlin](https://img.shields.io/badge/-Jetpack%20Compose-000?&logo=jetpackcompose&logoColor=4285F4)
 ![Room](https://img.shields.io/badge/-Room-000?&logo=sqlite)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&logoColor=4169E1)
 ![Retrofit](https://img.shields.io/badge/-Retrofit-000?&logo=square)
 ![Coroutines](https://img.shields.io/badge/-Coroutines-000?&logo=kotlin)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
